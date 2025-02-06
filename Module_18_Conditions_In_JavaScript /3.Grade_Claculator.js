@@ -1,4 +1,6 @@
 const prompt = require('prompt-sync')();
+// npm install prompt-sync
+// it needs to be added in termina'
 
 console.log("Welcome to Grade Calculator");
 
