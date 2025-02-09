@@ -6,7 +6,7 @@ it encounters the first square number (like 4, 9, 16, etc.)
 
 for (let i = 1; i <= 100; i++){
     console.log(i);
-    if (i===4){
+    if (Number.isInteger(Math.sqrt(i)) && Math.sqrt(i)!==1){
         break;
     }
 }
