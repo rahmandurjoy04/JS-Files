@@ -10,3 +10,5 @@ for (let i = 1; i <= 100; i++){
         break;
     }
 }
+// Math.sqrt(); -----> is a funstion to deremine sqare root of a number.
+// Number.isInteger(); ------> is use to check the number is integer or not.
